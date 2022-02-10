@@ -1,6 +1,6 @@
 # Deep Learning Course Booklet
 
-This a booklet I prepared while taking the following online courses:
+This is the booklet I prepared while taking the following online courses:
 
 1-Neural Networks and Deep Learning
 
